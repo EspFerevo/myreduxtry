@@ -4,4 +4,9 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 16px;
+  background-color: #ff7f50;
+  background-image: linear-gradient(to bottom, #ff7f50, #ff5f5f, #da70d6);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
